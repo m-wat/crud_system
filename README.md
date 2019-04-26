@@ -1,5 +1,4 @@
-## crud_system
-Laravelを用いてCRUDシステムを作る  
+# MEMO 
 ## Laravel×MySQLの場合の設定方法
 ```
 $ mysql -u root -p
