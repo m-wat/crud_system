@@ -1,4 +1,4 @@
-# crud_system
+## crud_system
 Laravelを用いてCRUDシステムを作る  
 ## Laravel×MySQLの場合の設定方法
 ```
@@ -37,9 +37,3 @@ config/database.phpに書く
             'password' => env('DB_PASSWORD', '.envに記載したパスワード'),
             'unix_socket' => env('DB_SOCKET', '/Applications/MAMP/tmp/mysql/mysql.sock'),
 ```
-## 画面一覧
-- 投稿一覧画面
-    - 新規作成画面
-    - 投稿完了画面
-- 編集画面  
-- 削除画面
